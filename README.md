@@ -1,2 +1,2 @@
-# WEB
- simple information management and information system page and some homwwork.
+# MyWeb
+ Simplei nformation management and information system web page
